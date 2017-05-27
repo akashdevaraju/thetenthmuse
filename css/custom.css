@@ -1,0 +1,43 @@
+.site-body {
+	text-align: center;
+}
+.muraad-brand-logo {
+	height: 200px;
+}
+.muraad-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: white;
+  background-attachment: fixed;
+  -webkit-transform: translateZ(0);
+  overflow: hidden;
+  padding: 4px 20px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  z-index: 10;
+  border-top: 5px solid #00a8d0;
+}
+h5 {
+  padding-top: 10px;
+}
+.info-body {
+	display: inline-block;
+	max-width: 365px;
+  margin-top: 18px;
+  margin-bottom: 3px;
+  font-family: 'Prociono', serif;
+}
+.social-icons {
+  list-style-type: none;
+}
+.social-icons li {
+  display: inline-block;
+}
+
+.social-icons li a {
+  font-size: 24px;
+  padding-right: 10px;
+  color: #a97b50;
+}
