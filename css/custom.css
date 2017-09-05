@@ -37,7 +37,8 @@ h5 {
 }
 
 .social-icons li a {
-  font-size: 24px;
+  font-size: 20px;
   padding-right: 10px;
   color: #a97b50;
+  text-decoration: none;
 }
